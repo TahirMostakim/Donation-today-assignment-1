@@ -107,7 +107,7 @@ body {
     font-size: 27px;
     }
 .border{
-    border-bottom: 1px solid gray;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.219);
     margin-top: 9.5px;
 }
 .center{
@@ -116,4 +116,14 @@ body {
 .donate-today button{
     margin: 30px 40%;
     
+}
+.donations-3{
+    width: 360px;
+    height: 352px;
+    margin: 24px ;
+    background-color: #FF5959;
+}
+.donation-parent{
+    display: flex;
+    justify-content: center;
 }
