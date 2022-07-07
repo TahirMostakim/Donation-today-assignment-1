@@ -121,9 +121,37 @@ body {
     width: 360px;
     height: 352px;
     margin: 24px ;
-    background-color: #FF5959;
+   
+    
 }
+
+   
 .donation-parent{
     display: flex;
     justify-content: center;
 }
+#food-family{
+    background-color: #4F9DA6;
+    background-size: cover;
+    text-align: center;
+
+    
+}
+#shelter{
+    background-color: #FF5959;
+    background-size: cover;
+    text-align: center;
+}
+
+#education{
+    background-color: orange ;
+    background-size: cover;
+    text-align: center;
+}
+.small-pics{
+    width: 58.13px;
+    height: 49.77px;
+    left: 180px;
+    top: 1659px;
+    padding-top: 50px;
+    }
