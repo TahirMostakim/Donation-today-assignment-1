@@ -14,7 +14,7 @@ body {
     color: white;
     width: 1536px;
     height: 669px;
-    background-image: url(images/donation1.jpg);
+    background-image: url(images/donation13.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -53,13 +53,14 @@ body {
 
 
 .donate-today {
-
+    color:#707070;
     width: 900px;
     margin: 0 auto;
 
 }
 
 .donate-today h1 {
+    color: black;
     text-align: center;
     font-size: 45px;
 }
@@ -110,9 +111,7 @@ body {
     border-bottom: 1px solid rgba(128, 128, 128, 0.219);
     margin-top: 9.5px;
 }
-.center{
-    
-}
+
 .donate-today button{
     margin: 30px 40%;
     
@@ -155,3 +154,23 @@ body {
     top: 1659px;
     padding-top: 50px;
     }
+#be-humble{
+    font-style: italic;
+    font-weight: 800;
+    color: red;
+}
+
+footer{
+    
+    background-color: black;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    
+}
+#gonna-do-it{
+    color: white;
+}
